@@ -15,6 +15,10 @@ Status Communities lack tools for knowledge management, onboarding, and coordina
 | Self-hosted AI | Requires DevOps + GPU. Messages must leave E2E encrypted channel to reach the server |
 | **Our approach** | **Agent lives *inside* the Status protocol — Logos Messaging transport, community-owned inference, existing E2E encryption** |
 
+## Demo
+
+https://github.com/epavlenko/status-app-agent/raw/main/docs/demo.mp4
+
 ## Quick Start
 
 ```bash
