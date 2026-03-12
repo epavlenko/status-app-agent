@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Environment
+.env
+.env.local
+
+# Workspace (bot runtime data: memory, logs, status-backend DB)
+workspace/
+
+# Status backend binaries and vendor (large)
+bin/
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data (if not under workspace/)
+logs/
+data/
+
+# Logs
+*.log
