@@ -1,5 +1,3 @@
-@AGENTS.md
-
 # CLAUDE.md
 
 > **Progressive disclosure:** this file is loaded into context every session — keep it short. Read linked docs only when your task requires them.
